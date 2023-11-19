@@ -21,8 +21,8 @@ This project is a responsive landing page designed to facilitate bike selection 
 3. Project Links:
    Design: https://www.figma.com/file/UdmBntopUq6zvgzFmjNPSw/BIKE-New-Version-(Copy)?node-id=41317%3A126&mode=dev
 
-Live Demo: https://baraban2003.github.io/layout_landing-page/
-Repository: https://github.com/baraban2003/layout_landing-page
+Live Demo: https://baraban2003.github.io/bikes-landing/
+Repository: https://github.com/baraban2003/bikes-landing
 
 4. Manual for Starting the Project (Using Parcel):
 
